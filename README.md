@@ -1,4 +1,4 @@
-# [Hugo Documentation Theme](https://github.com/wowchemy/hugo-documentation-theme)
+# [Mathematical Sciences of Peking University](https://www.math.pku.edu.cn/index.htm)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
